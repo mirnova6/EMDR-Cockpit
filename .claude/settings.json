@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "mirnova6-skills": {
+      "source": {
+        "source": "github",
+        "repo": "mirnova6/claude-code"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ui-ux-pro-max@mirnova6-skills": true
+  }
+}
